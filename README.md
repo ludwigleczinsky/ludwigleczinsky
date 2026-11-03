@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ludwigleczinsky
-- 👀 I’m interested in exploring coding
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on beginner stuff
+- 🌱 I’m working as a ServiceNow developer
 - 📫 How to reach me luddelola@gmail.com
 
 <!---
